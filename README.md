@@ -24,5 +24,4 @@ Después de completar el desafío, tu proyecto estará completo y la aplicación
 
 
 # ¡Buena suerte!
-# 21-java-desafio-front-main-frontend
 # 21-java-desafio-alura-backend-frontend
